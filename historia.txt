@@ -1,2 +1,5 @@
 Este es mi archivo de prueba para mi primer
-repositorio git del curso de git platzi
+repositorio git del curso de git platzi.
+
+Ahora despues de haberle echo el primer commit voy
+a realizar una modificacion al archivo para un segundo commit.
