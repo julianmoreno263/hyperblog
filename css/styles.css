@@ -5,10 +5,26 @@ body{
 
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color:rgb(0, 81, 255);
+    color:gray;
+    font-size: 16px;
+    margin: 0px;
+    padding: 0px;
 }
 
-p{
+#container{
+
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid grey;
+    margin: 0 auto;
+
+
+
+}
+
+ #container h1 p{
 
     font-weight: bold;
+    font-size: 20px;
 }
