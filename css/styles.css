@@ -11,6 +11,16 @@ body{
     padding: 0px;
 }
 
+
+#cabecera{
+
+    font-size: 30px;
+    text-align: center;
+    color: rgb(233, 69, 69);
+    font-family: cursive;
+    background-color: cadetblue;
+}
+
 #container{
 
     width: 70%;
